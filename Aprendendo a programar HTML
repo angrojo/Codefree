@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<body style="background-color:powderblue;">
+
+<title>Aprendendo a programar</title>
+</head>
+<body>
+
+<h1>Olá Descodificadas!</h1>
+<p>Começando a programar.</p>
+
+<ul>
+  <li>Back End</li>
+  <li>Front End</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+ </ul>
+ 
+ <picture>
+  <source media="(min-width: 650px)" srcset="img_womans.jpg">
+  <img src="img_girl.jpg">
+</picture>
+
+</body>
+</html>
